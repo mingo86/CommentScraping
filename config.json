@@ -1,0 +1,14 @@
+{
+  "platforms": ["instagram", "facebook", "tiktok", "youtube"],
+  "headless": true,
+  "proxy": null,
+  "max_comments_per_post": 20000,
+  "scroll_pause_ms": 1500,
+  "use_llm": true,
+  "anthropic_api_key": "sk-ant-YOUR_KEY_HERE",
+  "youtube_api_key": null,
+  "keywords_path": "keywords.json",
+  "output_dir": "output",
+  "screenshots_dir": "screenshots",
+  "db_path": "monitor.db"
+}

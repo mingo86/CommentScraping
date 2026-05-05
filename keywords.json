@@ -1,0 +1,23 @@
+{
+  "negative": [
+    "truffatore", "truffa", "ladro", "ruba", "rubano",
+    "bugiardo", "bugiardi", "mente", "mentono",
+    "impostore", "fake", "falso", "falsi",
+    "vergogna", "vergognoso", "vergognosi",
+    "schifo", "schifosissimo", "schifoso",
+    "idiota", "idioti", "stupido", "cretino", "imbecille",
+    "boicotta", "boicottate", "boicottaggio",
+    "non comprate", "non acquistate", "evitate",
+    "denuncia", "querela", "esposto",
+    "scam", "fraud", "liar", "cheat",
+    "disgusting", "horrible", "terrible", "awful",
+    "boycott", "avoid", "scammer",
+    "ti faccio del male", "ti ammazzo", "ti spacco",
+    "diffamazione", "calunnia"
+  ],
+  "whitelist": [
+    "critica costruttiva",
+    "migliorate",
+    "suggerisco"
+  ]
+}

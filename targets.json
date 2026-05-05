@@ -1,0 +1,22 @@
+[
+  {
+    "platform": "instagram",
+    "url": "https://www.instagram.com/p/POST_ID/",
+    "profile_name": "Nome Personaggio"
+  },
+  {
+    "platform": "facebook",
+    "url": "https://www.facebook.com/nomepagina/posts/POST_ID",
+    "profile_name": "Nome Pagina"
+  },
+  {
+    "platform": "tiktok",
+    "url": "https://www.tiktok.com/@username/video/VIDEO_ID",
+    "profile_name": "Username TikTok"
+  },
+  {
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=VIDEO_ID",
+    "profile_name": "Nome Canale"
+  }
+]
